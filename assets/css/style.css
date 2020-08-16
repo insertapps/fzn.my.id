@@ -194,6 +194,10 @@ hr {
 }
 
 @media (max-width: 52em) {
+	.sidenav {
+		padding-bottom: 2rem;
+	}
+
 	#content {
 		margin-top: 2rem;
 	}
