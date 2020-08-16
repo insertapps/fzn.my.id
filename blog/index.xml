@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Fauzan My</title>
+    <link>https://fzn.my.id/blog/</link>
+    <description>Recent content in Blogs on Fauzan My</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 14 Aug 2020 21:42:11 +0700</lastBuildDate>
+    
+	<atom:link href="https://fzn.my.id/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menulis Tutorial Sebelum Ajal</title>
+      <link>https://fzn.my.id/blog/menulis-tutorial-sebelum-ajal/</link>
+      <pubDate>Fri, 14 Aug 2020 21:42:11 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/menulis-tutorial-sebelum-ajal/</guid>
+      <description>Niatnya, pingin menulis tutorial sebelum aja tiba. Tutorial yang lengkap detail sedetailnya.
+Sejak awal ngoblog, yang paling terniat itu ingin menulis tutorial membuat theme wordpress dari nol hingga siap pakai.
+Rencana lama itu pun tak kunjung terealisasi, alasan klasik sih draf-draf tulisan tutorial disimpan dalam blog WordPress, ternyata untuk menambah dan mengedit draf tutorial terkendala dengan koneksi internet yang tidak boleh putus.
+Lucunya, semkin ke sisini, saya makin bosan dengan CMS WordPress.</description>
+    </item>
+    
+    <item>
+      <title>Kenangan Tabloid Bola</title>
+      <link>https://fzn.my.id/blog/kenangan-tabloid-bola/</link>
+      <pubDate>Mon, 29 Oct 2018 20:26:41 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/kenangan-tabloid-bola/</guid>
+      <description>Satu lagi media cetak berhenti cetak. Tabloid Bola resmi berhenti terbit versi cetak setelah cukup lama menyapa para bola mania. Walau tidak terlaku suka olahraga Bola, ada kenangan tersendiri bagi saya terhadap Tabloid, Bola, setelah melihat bertumpuk-tumpuk koleksi tabloid Teman saya.
+Betapa takjubnya saya waktu melihat tumpukan Tabloid Bola di kamar kawan tersebut.
+Tulisan ini mengenang Tabloid Bola serta inspirasi dari media cetak Bola yang telah tutup usia. Selengkapnya&amp;hellip; https://breedie.com/bola-yang-berhenti-menyapa/</description>
+    </item>
+    
+    <item>
+      <title>XAMPP Versus MAMP</title>
+      <link>https://fzn.my.id/blog/xampp-vs-mamp/</link>
+      <pubDate>Fri, 26 Oct 2018 13:22:07 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/xampp-vs-mamp/</guid>
+      <description>Pengalaman menggunakan lokal server XAMPP dengan MAMP di macOS dan WAMP khusus Windows. Diantara kedua local server di macOS dan WAMP di Windows, mana yang terbaik?
+Tulisan panjang perbandingan ketiga App tersebut sudah terbit di Breedie.com</description>
+    </item>
+    
+    <item>
+      <title>Mari Ngopi Di Kebun Kopi</title>
+      <link>https://fzn.my.id/blog/ngopi-di-kebun-kopi/</link>
+      <pubDate>Thu, 03 Mar 2016 20:51:56 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/ngopi-di-kebun-kopi/</guid>
+      <description>Ketika perubahan perilaku penikmat kopi yang mulai beralih ke espresso single shot, para pemilik kedai pun berlomba mengubah tampilan warkop menjadi cafe berkonsep dan berkelas. Lama-lama membosankan. Belum lagi suasana bising, malah tambah jenuh.
+Kini saatnya ngopi di kebun kopi.
+Liputan produk jurnalistik Seladang Cafe di Tabloid Pikiran Merdeka. Tulisan panjang selengkapnya buka PikiranMerdeka.co/news/saatnya-cafe-di-kebun-kopi/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>breedie on Fauzan My</title>
+    <link>https://fzn.my.id/tags/breedie/</link>
+    <description>Recent content in breedie on Fauzan My</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Mon, 29 Oct 2018 20:26:41 +0700</lastBuildDate>
+    
+	<atom:link href="https://fzn.my.id/tags/breedie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kenangan Tabloid Bola</title>
+      <link>https://fzn.my.id/blog/kenangan-tabloid-bola/</link>
+      <pubDate>Mon, 29 Oct 2018 20:26:41 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/kenangan-tabloid-bola/</guid>
+      <description>Satu lagi media cetak berhenti cetak. Tabloid Bola resmi berhenti terbit versi cetak setelah cukup lama menyapa para bola mania. Walau tidak terlaku suka olahraga Bola, ada kenangan tersendiri bagi saya terhadap Tabloid, Bola, setelah melihat bertumpuk-tumpuk koleksi tabloid Teman saya.
+Betapa takjubnya saya waktu melihat tumpukan Tabloid Bola di kamar kawan tersebut.
+Tulisan ini mengenang Tabloid Bola serta inspirasi dari media cetak Bola yang telah tutup usia. Selengkapnya&amp;hellip; https://breedie.com/bola-yang-berhenti-menyapa/</description>
+    </item>
+    
+    <item>
+      <title>XAMPP Versus MAMP</title>
+      <link>https://fzn.my.id/blog/xampp-vs-mamp/</link>
+      <pubDate>Fri, 26 Oct 2018 13:22:07 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/xampp-vs-mamp/</guid>
+      <description>Pengalaman menggunakan lokal server XAMPP dengan MAMP di macOS dan WAMP khusus Windows. Diantara kedua local server di macOS dan WAMP di Windows, mana yang terbaik?
+Tulisan panjang perbandingan ketiga App tersebut sudah terbit di Breedie.com</description>
+    </item>
+    
+  </channel>
+</rss>
