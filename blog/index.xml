@@ -6,10 +6,48 @@
     <description>Recent content in Blogs on Fauzan My</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 14 Aug 2020 21:42:11 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 15:09:39 +0700</lastBuildDate><atom:link href="https://fzn.my.id/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desain icon search dengan kode HTML dan CSS</title>
+      <link>https://fzn.my.id/blog/search-icon-pure-css/</link>
+      <pubDate>Wed, 05 May 2021 15:09:39 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/search-icon-pure-css/</guid>
+      <description>Mendesain icon search dengan kode HTML dan CSS plus fungsi klik mouse dengan gerakan animasi berubah menjadi icon close.
+Caranya sudah saya tulis dan publish di https://insertapps.com/blog/search-box-icon-pure-css/</description>
+    </item>
     
-	<atom:link href="https://fzn.my.id/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convert PNG-JPE ke WEBP</title>
+      <link>https://fzn.my.id/blog/png-to-webp/</link>
+      <pubDate>Tue, 04 May 2021 14:58:23 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/png-to-webp/</guid>
+      <description>Melalui update Core Web Vital, google merekomendasi format gambar WEBP untuk konten blog. Secara default aplikasi Photoshop yang bisa saya gunakan untuk mengedit gamabar, tidak mendukung Save As ke WebP.
+Tapi, berkat plugin khusus, Photoshop saya sudah bisa menyimpan gambar ke format .webp.
+Plugin apa saja yang cocok dengan Adobe Photoshop anda, baca saja ulasan panjang artikel berikut https://breedie.com/ubah-jpg-ke-webp-dengan-photoshop/.</description>
+    </item>
     
+    <item>
+      <title>Mulai menulis tutorial membuat WP theme</title>
+      <link>https://fzn.my.id/blog/tutorial-membuat-wp-theme/</link>
+      <pubDate>Fri, 30 Apr 2021 14:32:20 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/tutorial-membuat-wp-theme/</guid>
+      <description>Berkah Ramadhan 2021, sambil menununggu waktu berbuka puasa, saya mulai menulis tutorial cara membuat theme wordpress sendiri. Konsep tulisan tutorial membuat tema WordPress untuk level pemula hingga menengah.
+Silahkan ikuti seri tutorial membuat teme WordPress di web InsertApps.com.</description>
+    </item>
+    
+    <item>
+      <title>Review Mikrotik RB952ui</title>
+      <link>https://fzn.my.id/blog/review-mikrotik-rb952ui/</link>
+      <pubDate>Fri, 16 Apr 2021 14:46:02 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/review-mikrotik-rb952ui/</guid>
+      <description>Saya memutuskan membeli perangkat MikroTik RB952ui-5ac2nd-TC (hAP-AC-Lite-TC) untuk manajemen bandwith internet di rumah. Setelah masa pakai beberapa bulan, MikroTik seri RB952ui untuk skala rumahan ternyata sangat over kill sekali.
+Review panjang tentang MikroTik RB952ui sudah saya publish di Breedie https://breedie.com/review-mikrotik-rb952ui-5ac2nd-tc/.
+Stori tentang perangkat MikroTik klik link https://breedie.com/perangkat-mikrotik-membagi-jaringan-internet/.</description>
+    </item>
     
     <item>
       <title>Menulis Tutorial Sebelum Ajal</title>
