@@ -1,6 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</loc>
+    
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+	
+	<changefreq>monthly</changefreq>
+  </url>
+
+  <url>
     <loc>https://fzn.my.id/blog/search-icon-pure-css/</loc>
     
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
@@ -28,6 +36,14 @@
     <loc>https://fzn.my.id/blog/review-mikrotik-rb952ui/</loc>
     
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+	
+	<changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://fzn.my.id/blog/mouse-wheel-horizontal-scroll/</loc>
+    
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
 	
 	<changefreq>monthly</changefreq>
   </url>

@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on Fauzan My</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 05 May 2021 15:09:39 +0700</lastBuildDate><atom:link href="https://fzn.my.id/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 17:36:26 +0700</lastBuildDate><atom:link href="https://fzn.my.id/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pehtheme HTML boilerplate sederhana yang ringan</title>
+      <link>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</link>
+      <pubDate>Sat, 29 May 2021 17:36:26 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</guid>
+      <description>Sudah lebih dari 15 tahun saya belajar web desain dan mengembangkan website, namun tidak ada satu projek web hasil karya sendiri atau koding sendiri dari nol.
+Semua proyek itu sudah dimudahkan dan dilenakan oleh CMS WordPress.
+Namun, seiring perkembangan teknologi web semakin modern dan beragam, juga banyak sekali tools gratis yang makin memudahkan untuk mengembangkan website, akhirnya saya berhasil membuat dan percaya diri untuk merelease sebuah HTML Template secara publik atau open source.</description>
+    </item>
+    
     <item>
       <title>Desain icon search dengan kode HTML dan CSS</title>
       <link>https://fzn.my.id/blog/search-icon-pure-css/</link>
@@ -47,6 +58,17 @@ Silahkan ikuti seri tutorial membuat teme WordPress di web InsertApps.com.</desc
       <description>Saya memutuskan membeli perangkat MikroTik RB952ui-5ac2nd-TC (hAP-AC-Lite-TC) untuk manajemen bandwith internet di rumah. Setelah masa pakai beberapa bulan, MikroTik seri RB952ui untuk skala rumahan ternyata sangat over kill sekali.
 Review panjang tentang MikroTik RB952ui sudah saya publish di Breedie https://breedie.com/review-mikrotik-rb952ui-5ac2nd-tc/.
 Stori tentang perangkat MikroTik klik link https://breedie.com/perangkat-mikrotik-membagi-jaringan-internet/.</description>
+    </item>
+    
+    <item>
+      <title>Implementasi Mouse Wheel Horizontal Scroll</title>
+      <link>https://fzn.my.id/blog/mouse-wheel-horizontal-scroll/</link>
+      <pubDate>Fri, 22 Jan 2021 16:11:55 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/mouse-wheel-horizontal-scroll/</guid>
+      <description>Dunia sudah dalam gemgaman, laman webpun berevolusi ke mode layout mobile-first-design, baru ke tampilan desktop. Mengakses web dengan smartphone yang lebarnya screenya 350px memiliki lebih banyak batasan, tapi memiliki pola akses yang keren, yaitu scroll atas bawah, swipe kiri dan kanan.
+Apakah dunia dalam desktop hilang? Tidak juga. Memang jumlah populasi user mobile lebih banyak dari pada lewat user windows.
+Tapi sejak pandemi Covid-19 di tahun 2020, permintaan PC Game meningkat, bahkan hingga 2021 komponen PC makin langka dan mahal.</description>
     </item>
     
     <item>
