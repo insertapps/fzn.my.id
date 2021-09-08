@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pehtheme on Fauzan My</title>
+    <link>https://fzn.my.id/tags/pehtheme/</link>
+    <description>Recent content in pehtheme on Fauzan My</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Sat, 29 May 2021 17:36:26 +0700</lastBuildDate><atom:link href="https://fzn.my.id/tags/pehtheme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pehtheme HTML boilerplate sederhana yang ringan</title>
+      <link>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</link>
+      <pubDate>Sat, 29 May 2021 17:36:26 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</guid>
+      <description>Sudah lebih dari 15 tahun saya belajar web desain dan mengembangkan website, namun tidak ada satu projek web hasil karya sendiri atau koding sendiri dari nol.
+Semua proyek itu sudah dimudahkan dan dilenakan oleh CMS WordPress.
+Namun, seiring perkembangan teknologi web semakin modern dan beragam, juga banyak sekali tools gratis yang makin memudahkan untuk mengembangkan website, akhirnya saya berhasil membuat dan percaya diri untuk merelease sebuah HTML Template secara publik atau open source.</description>
+    </item>
+    
+  </channel>
+</rss>

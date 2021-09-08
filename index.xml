@@ -6,7 +6,19 @@
     <description>Recent content on Fauzan My</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 29 May 2021 17:36:26 +0700</lastBuildDate><atom:link href="https://fzn.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Sep 2021 19:09:59 +0700</lastBuildDate><atom:link href="https://fzn.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zorin OS</title>
+      <link>https://fzn.my.id/blog/zorin-os/</link>
+      <pubDate>Wed, 08 Sep 2021 19:09:59 +0700</pubDate>
+      
+      <guid>https://fzn.my.id/blog/zorin-os/</guid>
+      <description>GNU/Linux pertama sekali yang saya pakai adalah Ubuntu 9.10 dengan code name Karmic Koala, sekitar tahun 2009.
+Si Karmic Koala pun tidak lama bertahan, hanya sebentar saja karena terasa lebih berat di Laptop kecil MSI U Wind.
+Setelah itu, saya hijrah ke macOS.
+Kemudian, saya mencoba Linux lagi, yaitu distro Linux Mint 18 yang saya install di Laptop tua HP 2230s. Linux Mint di Laptop tua itu bisa bertahan hingga 1.</description>
+    </item>
+    
     <item>
       <title>Pehtheme HTML boilerplate sederhana yang ringan</title>
       <link>https://fzn.my.id/blog/pehtheme-simple-html-boilerplate/</link>
